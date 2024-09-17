@@ -43,4 +43,24 @@ Untracked files:
   (use "git add <file>..." to include in what will be committed)
 	anwsers.md
 
+Answer 7: On branch master
+nothing to commit, working tree clean
+
+Answer 8: commit 07f595621781879a1f25774ca58a1629af40467e (HEAD -> master)
+Author: Toby Cremer <tc850522@ohio.edu>
+Date:   Tue Sep 17 12:43:55 2024 -0400
+
+    Initial commit
+
+commit 6d773a0b014a8bfa3ba4d337fa18df5aabb95cc9
+Author: Toby Cremer <tc850522@ohio.edu>
+Date:   Tue Sep 17 12:40:16 2024 -0400
+
+    Initial commit
+
+commit bbcd2b204b6345dcd151899bf83e2fed84641419
+Author: Toby Cremer <tc850522@ohio.edu>
+Date:   Tue Sep 17 12:37:39 2024 -0400
+
+    Initial commit
 
