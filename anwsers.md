@@ -64,3 +64,16 @@ Date:   Tue Sep 17 12:37:39 2024 -0400
 
     Initial commit
 
+Answer 9: On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+
+Answer 10: The changes I made online did not show up on my local copy
+
+Answer 11: Nothing changed
+
+Answer 12: The changes I made online showed up on the local copy
+
+Answer 13: .  ..  .git  .gitignore  README.md
+
